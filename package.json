@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "jest": "^29.2.2"
+  },
+  "name": "scd-lab-10",
+  "version": "1.0.0",
+  "main": "sum.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
